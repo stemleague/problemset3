@@ -1,6 +1,7 @@
-# Crack the Code: Problem Set 2
+# Crack the Code: Problem Set 3
 
-# Problem: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+# Problem: Given an integer x, return true if x is palindrome integer. An integer is a palindrome when it reads the same backward as forward.
+# For example, 121 is a palindrome while 123 is not.
 
 # STEP 1: Clarify your questions and assumptions
 #
@@ -33,10 +34,9 @@
 #
 
 
-
 # STEP 3: Code it up!
 # TODO: Write your implementation below. 
-def two_sum(nums, target):
+def is_palindrome(my_num):
 
 
 
@@ -44,7 +44,8 @@ def two_sum(nums, target):
 
 # STEP 4: Testing Your Code
 # Convert your above test cases from Step 2 into actual function calls and run your code to check if your function works.
-
+#
+#
 
 # STEP 5: Optimize Your Code
 # TODO: There is no correct answer, but out of your best guess, what is your code's time complexity? 
